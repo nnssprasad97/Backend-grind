@@ -1,0 +1,19 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "backend practice",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "backend",
+    "development"
+  ],
+  "author": "nnssprasad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
